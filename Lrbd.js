@@ -24,7 +24,7 @@ obj.current_subs={
         }
     };
 obj.entitlement.storage={
-        "used": 8737385,
+        "used": 0,
         "limit": 45097156608,
         "display_limit": 42949672960,
         "warn": 34359738368
