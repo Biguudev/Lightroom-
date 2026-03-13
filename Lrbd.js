@@ -1,4 +1,4 @@
-body = $response.body.replace(/while.{7}\n/, "");
+body = $response.body.replace(/while.{1}\n/, "");
 let obj = JSON.parse(body);
 obj.entitlement.status="subscriber";
 obj.current_subs={
